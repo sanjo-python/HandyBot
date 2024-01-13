@@ -1,1 +1,1 @@
-# HandyBot
+# Handy
